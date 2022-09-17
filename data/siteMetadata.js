@@ -1,22 +1,19 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
-  language: 'en-us',
+  title: 'Viszlát Mogyoród!',
+  author: 'Sleisz Endre',
+  headerTitle: 'Viszlát Mogyoród!',
+  description: 'Ausztriába költözésünk története.',
+  language: 'hu',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app', //TODO modify site url
+  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog', //TODO modify
+  siteLogo: '/static/images/logo.png', //TODO modify
+  image: '/static/images/avatar.png', //TODO modify
+  socialBanner: '/static/images/twitter-card.png', //TODO modify
+  email: 'address@yoursite.com', //TODO modify
+  github: 'https://github.com', //TODO modify
   linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  locale: 'hu-HU',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
@@ -26,11 +23,6 @@ const siteMetadata = {
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
-  },
-  newsletter: {
-    // supports mailchimp, buttondown, convertkit, klaviyo, revue, emailoctopus
-    // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the

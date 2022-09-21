@@ -1,14 +1,24 @@
 ---
 name: Sleisz Endre
-avatar: /static/images/avatar.png
+avatar: /static/images/DSC08946.jpg
 occupation: Frontend / react fejlesztő
-# twitter: https://twitter.com/Twitter
-# linkedin: https://www.linkedin.com
-# github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+**Sleisz Endre vagyok, frontend fejlesztő.**
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+A munkám legkedvesebb része a design kóddá alakítása.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Legjobban a react és Nextjs fejlesztést élvezem, 2021 óta.
+Typescript nélkül bele sem kezdenék semmibe. (Bár ezen a blogon pont nem használok még TS-t.)
+
+Ausztriába költözésünk történetét szeretném elmesélni.
+
+- Miért vágtunk bele, mi motivált az elköltözésre?
+- Hogyan találtam munkát?
+- Hogy készültem fel az interjúkra?
+- Minek kellett utánajárni a költözés előtt, mit kellett elintézni?
+- Hogy néz ki a sok elintéznivaló a gyakorlatban?
+
+Ezen kívül a kinti élet furcsaságait, napi / heti eseményeit fogom részletezni a család és közeli ismerősök számára, hogy egyszerűen követhessék, hogy alakulnak a dolgaink.
+
+Viszlát Mogyoród!

@@ -64,6 +64,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                           width="38px"
                           height="38px"
                           alt="avatar"
+                          objectFit="cover"
+                          objectPosition="bottom"
                           className="h-10 w-10 rounded-full"
                         />
                       )}

@@ -4,15 +4,11 @@ const siteMetadata = {
   headerTitle: 'Viszlát Mogyoród!',
   description: 'Ausztriába költözésünk története.',
   language: 'hu',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app', //TODO modify site url
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog', //TODO modify
   siteLogo: '/static/images/logo.png', //TODO modify
   image: '/static/images/avatar.png', //TODO modify
-  socialBanner: '/static/images/twitter-card.png', //TODO modify
-  email: 'address@yoursite.com', //TODO modify
-  github: 'https://github.com', //TODO modify
-  linkedin: 'https://www.linkedin.com',
   locale: 'hu-HU',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
@@ -43,7 +39,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark',
       // Place the comment box above the comments. options: bottom, top
       inputPosition: 'bottom',
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc

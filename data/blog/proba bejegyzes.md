@@ -1,14 +1,22 @@
 ---
-title: Első próba bejegyzés
-author: Sleisz Endre
-tags: ['nextjs','stackedit']
-date: '2022-09-24'
+extensions:
+  preset: ''
 
 ---
 
+<hr>
+<p>title: Első próba bejegyzés<br>
+author: Sleisz Endre<br>
+tags: [‘nextjs’,‘stackedit’]<br>
+date: ‘2022-09-24’</p>
+<hr>
 <blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.<br>
-asdasdasda</p>
+<p>Blockquote pelda</p>
 </blockquote>
-<p>asdsdaadasdasd</p>
+<p>Written with Stackedit<br>
+asdasdasda</p>
+<blockquote>
+<p>Blockquote</p>
+</blockquote>
+<h2 id="asdasdasd">asdasdasd</h2>
 

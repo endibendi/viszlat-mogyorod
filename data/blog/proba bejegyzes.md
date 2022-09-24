@@ -1,5 +1,8 @@
 ---
-
+title: Első próba bejegyzés
+author: Sleisz Endre
+tags: 'nextjs,stackedit'
+date: '2022-09-24'
 
 ---
 

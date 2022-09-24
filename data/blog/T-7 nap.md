@@ -1,6 +1,6 @@
 ---
 title: T-7 nap
-date: '2021-01-31'
+date: '2022-09-24'
 tags: ['készülődés']
 draft: false
 summary: Nagy az izgulás, drága lesz az albérlet.
@@ -22,5 +22,6 @@ Közben alakul a blog próbaverziója is, már nem kódban, hanem egy online edi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4NDgyMzE4LC02ODA0NjgyMzldfQ==
+eyJoaXN0b3J5IjpbMTI2NjE0MDExMyw1Njg0ODIzMTgsLTY4MD
+Q2ODIzOV19
 -->

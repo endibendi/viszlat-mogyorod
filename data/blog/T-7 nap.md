@@ -3,7 +3,7 @@ title: T-7 nap
 date: '2021-01-31'
 tags: ['készülődés']
 draft: false
-summary:
+summary: Nagy a
 images: []
 ---
 
@@ -20,5 +20,5 @@ Közben alakul a blog próbaverziója is, már nem kódban, hanem egy online edi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDQ2ODIzOV19
+eyJoaXN0b3J5IjpbLTE5MjYwNjIyMjMsLTY4MDQ2ODIzOV19
 -->

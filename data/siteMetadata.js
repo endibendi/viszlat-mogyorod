@@ -8,6 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app', //TODO modify site url
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog', //TODO modify
   siteLogo: '/static/images/logo.png', //TODO modify
+  socialBanner: '/static/images/avatar.png',
   image: '/static/images/avatar.png', //TODO modify
   locale: 'hu-HU',
   analytics: {
